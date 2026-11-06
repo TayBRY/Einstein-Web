@@ -1,0 +1,57 @@
+div{background-color: white;
+border-radius: 20px;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover:not(.active) {
+  background-color: #5f5b68;
+}
+
+ul li a.active {
+  background-color: #04AA6D;
+}
+.navbar{ border: 4px outset #252525; }
+
+.Tabl{   border: 4px outset #252525; 
+}
+td{ border: 4px outset #252525; }
+.Alby{text-decoration: underline #977400;}
+h1{ text-decoration: underline;}
+.Math{ float: right; }
+
+
+body {
+
+  background-image: url("https://nationaltoday.com/wp-content/uploads/2022/08/22-National-Math-Day-1200x834.jpg"); 
+  
+ 
+  background-size: cover; 
+  
+
+  background-position: center; 
+  
+
+  background-repeat: no-repeat; 
+  
+
+  background-attachment:fixed; 
+  
+  
+  background-color: #333333; 
+}
+.TablIMG{ float: right;}
+.D{background-color: white;
+  border-radius: 0px;
+ }
